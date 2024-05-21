@@ -1,7 +1,7 @@
    # Project Overview
    I've used Power BI tool to build the dashboard. Based on the dataset, we are delving into Human Resources Data to unveil insights into the workforce, retention rate, and salary
 
-### Tools Used Power BI- Creating Dashboards,Data Visualization 
+## Tools Used Power BI- Creating Dashboards,Data Visualization 
 
 ## Insights -
 ### Workforce Demographics:
